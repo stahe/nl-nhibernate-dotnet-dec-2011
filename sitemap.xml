@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://stahe.github.io/nl-nhibernate-dotnet-dec-2011/index.html</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/nl-nhibernate-dotnet-dec-2011/conclusie.html</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/nl-nhibernate-dotnet-dec-2011/inleiding-tot-de-orm-nhibernate.html</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/nl-nhibernate-dotnet-dec-2011/integratie-spring--nhibernate.html</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+</urlset>
